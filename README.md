@@ -1,7 +1,8 @@
- #   sobre mim
-- 👋 ola,meu nome é @mariavcosta
-- 👀 Eu estou interesado em aprender a progamar novas liguagens
-- 🌱 eu estou aprendendo a progamar linguagens do Javasript e scratch
+ ##  sobre mim
+- 👋 ola,meu nome é @mariavitoria
+-  sou apostolica catolica romana 
+-  estou interessado em aprender progamação JavaScript e Scratch
+  
 
 
 <!---
